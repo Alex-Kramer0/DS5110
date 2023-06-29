@@ -5,7 +5,7 @@ Introduces students to the core tasks in data science, including data collection
 - Homework 1 - Working with and Visualizing Array-Based Models
 - Homework 2 - Crime, Cannabis, and Connectivity
 - Homework 3 - Bioinformatics: Gene-Disease Research in the Post-Genomic Era
-- Project - 
+- Project - You can view the project code above or view the project repository [here](<https://github.com/ZacharyArmandNEU/DS5110-blue-bikes>).
 
 # Syllbus
 https://www.ccs.neu.edu/home/rachlin/ds/ds3000_ds5110/#_ga=2.1620082.2111207086.1688046316-300293981.1688046315
