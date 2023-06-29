@@ -3,7 +3,7 @@ Introduces students to the core tasks in data science, including data collection
 
 # Assignments
 Homework 1 - Working with and Visualizing Array-Based Models
-Homework 2 - 
+Homework 2 - Crime, Cannabis, and Connectivity
 Homework 3 - 
 Project - 
 
