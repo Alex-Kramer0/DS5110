@@ -2,7 +2,7 @@
 Introduces students to the core tasks in data science, including data collection, storage, tidying, transformation, processing, management, and modeling for the purpose of extracting knowledge from raw observations. Programming is a cross-cutting aspect of the course. Offers students an opportunity to gain experience with data science tasks and tools through short assignments. Includes a term project based on real-world data.
 
 # Assignments
-Homework 1 - 
+Homework 1 - Working with and Visualizing Array-Based Models
 Homework 2 - 
 Homework 3 - 
 Project - 
